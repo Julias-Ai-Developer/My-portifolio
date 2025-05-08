@@ -4,6 +4,8 @@
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
+
+<!-- Mirrored from marketifythemes.net/html/picman/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 May 2025 19:51:59 GMT -->
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -13,7 +15,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Julias AI Developer| Home</title>
+<title>Picman | Home</title>
 
 <!-- Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -40,60 +42,59 @@
 <div class="picman_tm_all_wrap" data-magic-cursor="show">
 
 	<!-- SETTINGS -->
-<div class="picman_tm_settings">
-	<div class="icon">
-		<img class="svg" src="img/svg/settings/setting.svg" alt="Settings" />
-		<a class="link" href="#"></a>
+	<div class="picman_tm_settings">
+		<div class="icon">
+			<img class="svg" src="img/svg/settings/setting.svg" alt="" />
+			<a class="link" href="#"></a>
+		</div>
+		<div class="wrapper">
+			<span class="title">Unlimited Colors</span>
+			<ul class="colors">
+				<li><a href="#" data-color="#4169e1"></a></li>
+				<li><a href="#" data-color="#66B95C"></a></li>
+				<li><a href="#" data-color="#ff9800"></a></li>
+				<li><a href="#" data-color="#ff5e94"></a></li>
+				<li><a href="#" data-color="#ff4522"></a></li>
+				<li><a href="#" data-color="#333"></a></li>
+				<li><a href="#" data-color="#9200ee"></a></li>
+				<li><a href="#" data-color="#00D4BD"></a></li>
+				<li><a href="#" data-color="#5e9e9f"></a></li>
+				<li><a href="#" data-color="#e65f78"></a></li>
+				<li><a href="#" data-color="#666d41"></a></li>
+				<li><a href="#" data-color="#fe0000"></a></li>
+				<li class="picker"><input type="text" value="#e80000" /></li>
+			</ul>
+			<span class="title">Magic Cursor</span>
+			<ul class="cursor">
+				<li><a class="showme show" href="#"></a></li>
+				<li><a class="hide" href="#"><img class="svg" src="img/svg/settings/arrow.svg" alt="" /></a></li>
+			</ul>
+		</div>
 	</div>
-	<div class="wrapper">
-		<span class="title">Kamatrust AI Studio</span>
-		<ul class="colors">
-			<li><a href="#" data-color="#4169e1"></a></li>
-			<li><a href="#" data-color="#66B95C"></a></li>
-			<li><a href="#" data-color="#ff9800"></a></li>
-			<li><a href="#" data-color="#ff5e94"></a></li>
-			<li><a href="#" data-color="#ff4522"></a></li>
-			<li><a href="#" data-color="#333"></a></li>
-			<li><a href="#" data-color="#9200ee"></a></li>
-			<li><a href="#" data-color="#00D4BD"></a></li>
-			<li><a href="#" data-color="#5e9e9f"></a></li>
-			<li><a href="#" data-color="#e65f78"></a></li>
-			<li><a href="#" data-color="#666d41"></a></li>
-			<li><a href="#" data-color="#fe0000"></a></li>
-			<li class="picker"><input type="text" value="#e80000" /></li>
-		</ul>
-		<span class="title">Interactive UX Cursor</span>
-		<ul class="cursor">
-			<li><a class="showme show" href="#"></a></li>
-			<li><a class="hide" href="#"><img class="svg" src="img/svg/settings/arrow.svg" alt="Cursor" /></a></li>
-		</ul>
-	</div>
-</div>
-<!-- /SETTINGS -->
-
-<!-- HEADER -->
-<div class="picman_tm_header">
-	<div class="container">
-		<div class="inner">
-			<div class="logo">
-				<a href="index.html"> KAMATRUST AI</a>
-			</div>
-			<div class="menu">
-				<ul class="anchor_nav">
-					<li class="current"><a href="#home">Home</a></li>
-					<li><a href="#about">About</a></li>
-					<li><a href="#projects">Projects</a></li>
-					<li><a href="#expertise">Expertise</a></li>
-					<li><a href="#ai-lab">AI Lab</a></li>
-					<li><a href="#contact">Contact</a></li>
-					<li class="button"><a href="#collaborate"><span>Collaborate Now</span></a></li>
-				</ul>
+	<!-- /SETTINGS -->
+	
+	<!-- HEADER -->
+	<div class="picman_tm_header">
+		<div class="container">
+			<div class="inner">
+				<div class="logo">
+					<a href="index.php"><img src="img/logo/logo.png" alt="" /></a>
+				</div>
+				<div class="menu">
+					<ul class="anchor_nav">
+						<li class="current"><a href="#home">Home</a></li>
+						<li><a href="#about">About</a></li>
+						<li><a href="#portfolio">Portfolio</a></li>
+						<li><a href="#service">Service</a></li>
+						<li><a href="#blog">Blog</a></li>
+						<li><a href="#contact">Contact</a></li>
+						<li class="button"><a href="#quote"><span>Get A Quote</span></a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
-<!-- HEADER -->
-
+	<!-- HEADER -->
 	
 	
 	<!-- MOBILE MENU -->
@@ -101,7 +102,7 @@
 		<div class="mobile_menu_inner">
 			<div class="mobile_in">
 				<div class="logo">
-					<a href="index.html"><img src="img/logo/mobile-logo.png" alt="" /></a>
+					<a href="index.php"><img src="img/logo/mobile-logo.png" alt="" /></a>
 				</div>
 				<div class="trigger">
 					<div class="hamburger hamburger--slider">
@@ -148,10 +149,13 @@
 		
 		<!-- Gallery List (hero) -->
 		<div class="gallery_list_wrap">
-			<div class="main_background_image" data-img-url="img/slider/4.jpg"></div>
-			<div class="particle_wrapper">
-				<div id="particles-js"></div>
-			</div>
+			<ul>
+				<li class="active"><div class="main" data-img-url="img/slider/1.jpg"></div></li>
+				<li><div class="main" data-img-url="img/slider/2.jpg"></div></li>
+				<li><div class="main" data-img-url="img/slider/3.jpg"></div></li>
+				<li><div class="main" data-img-url="img/slider/4.jpg"></div></li>
+				<li><div class="main" data-img-url="img/slider/5.jpg"></div></li>
+			</ul>
 		</div>
 		<!-- Gallery List (hero) -->
 		
@@ -171,6 +175,39 @@
 						</div>
 					</div>
 					<!-- Left Circle Box (hero) -->
+					
+					
+					<!-- Right List (hero) -->
+					<div class="right_box">
+						<ul class="list">
+							<li class="active">
+								<div class="list_inner">
+									<h3><a>Travel</a></h3>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a>Holiday</a></h3>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a>Wildlife</a></h3>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a>Casual</a></h3>
+								</div>
+							</li>
+							<li>
+								<div class="list_inner">
+									<h3><a>Wedding</a></h3>
+								</div>
+							</li>
+						</ul>
+					</div>
+					<!-- Right List (hero) -->
 					
 				</div>
 			</div>
@@ -1315,7 +1352,7 @@
 					<li class="list_item wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s">
 						<div class="item">
 							<div class="logo">
-								<a href="index.html"><img src="img/logo/footer-logo.png" alt="" /></a>
+								<a href="index.php"><img src="img/logo/footer-logo.png" alt="" /></a>
 							</div>
 							<div class="desc">
 								<p>Seisi ut aliquip ex ea commodo co tuiki kokhono janti iquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate</p>
@@ -1412,5 +1449,5 @@
 
 </body>
 
-<!-- Mirrored from marketifythemes.net/html/picman/index-particle.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 May 2025 19:51:54 GMT -->
+<!-- Mirrored from marketifythemes.net/html/picman/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 May 2025 19:52:03 GMT -->
 </html>
